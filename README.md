@@ -1,2 +1,14 @@
 # bobbyju.github.io
 My personal portfolio website
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Bobby Ju Portfolio</title>
+</head>
+<body>
+  <h1>Welcome to my portfolio!</h1>
+  <p>This is my personal website.</p>
+</body>
+</html>
